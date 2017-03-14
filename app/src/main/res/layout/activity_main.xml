@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.momobites.www.speaknepali.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- 00 Letters category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_number_even">
+            <TextView
+                android:id="@+id/letters"
+                style="@style/CategoryStyleEven"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_letters" />
+        </FrameLayout>
+
+        <!-- 01 Numbers category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_number_odd">
+            <TextView
+                android:id="@+id/numbers"
+                style="@style/CategoryStyleOdd"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_numbers" />
+        </FrameLayout>
+
+        <!-- 02 Family category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:background="@color/category_number_even"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/family"
+                style="@style/CategoryStyleEven"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_family" />
+        </FrameLayout>
+
+        <!-- 03 Colors category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_number_odd">
+            <TextView
+                android:id="@+id/colors"
+                style="@style/CategoryStyleOdd"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_colors" />
+        </FrameLayout>
+
+        <!-- 04 Time category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:background="@color/category_number_even"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/time"
+                style="@style/CategoryStyleEven"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_time" />
+        </FrameLayout>
+
+        <!-- 05 Food Phrases category -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/category_number_odd">
+            <TextView
+                android:id="@+id/phrases"
+                style="@style/CategoryStyleEven"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/category_phrases" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+</ScrollView>

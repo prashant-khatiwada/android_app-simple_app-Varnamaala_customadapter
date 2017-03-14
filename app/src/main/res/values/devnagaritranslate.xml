@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Devnagari Letter-->
+    <string name="devnagari_letter_ka">क</string>
+    <string name="devnagari_letter_kha">ख</string>
+    <string name="devnagari_letter_ga">ग</string>
+    <string name="devnagari_letter_gha">घ</string>
+    <string name="devnagari_letter_nga">ङ</string>
+    <string name="devnagari_letter_cha">च</string>
+    <string name="devnagari_letter_chha">छ</string>
+    <string name="devnagari_letter_ja">ज</string>
+    <string name="devnagari_letter_jha">झ</string>
+    <string name="devnagari_letter_yna">ञ</string>
+    <string name="devnagari_letter_ta">त</string>
+    <string name="devnagari_letter_tha">थ</string>
+    <string name="devnagari_letter_da">द</string>
+    <string name="devnagari_letter_dha">ध</string>
+    <string name="devnagari_letter_na">न</string>
+    <string name="devnagari_letter_pa">प</string>
+    <string name="devnagari_letter_pha">फ</string>
+    <string name="devnagari_letter_ba">ब</string>
+    <string name="devnagari_letter_bha">भ</string>
+    <string name="devnagari_letter_ma">म</string>
+    <string name="devnagari_letter_ya">य</string>
+    <string name="devnagari_letter_ra">र</string>
+    <string name="devnagari_letter_la">ल</string>
+    <string name="devnagari_letter_wa">व</string>
+    <string name="devnagari_letter_sa">स</string>
+    <string name="devnagari_letter_khha">ष</string>
+    <string name="devnagari_letter_sha">श</string>
+    <string name="devnagari_letter_ha">ह</string>
+    <string name="devnagari_letter_chyha">छ्य</string>
+    <string name="devnagari_letter_tra">ऋ</string>
+    <string name="devnagari_letter_gyna">ञ</string>
+
+    <!-- Devnagari translation for number -->
+    <string name="devnagari_number_one">१ एक</string>
+    <string name="devnagari_number_two">२ दुई</string>
+    <string name="devnagari_number_three">३ तीन</string>
+    <string name="devnagari_number_four">४ चार</string>
+    <string name="devnagari_number_five">५ पांच</string>
+    <string name="devnagari_number_six">६ छ</string>
+    <string name="devnagari_number_seven">७ सात</string>
+    <string name="devnagari_number_eight">८ आठ</string>
+    <string name="devnagari_number_nine">९ नैा</string>
+    <string name="devnagari_number_ten">१० दस</string>
+
+
+    <!-- Devnagari translation for colors -->
+    <string name="devnagari_color_red">रातो</string>
+    <string name="devnagari_color_green">हरियो</string>
+    <string name="devnagari_color_blue">नीलो</string>
+    <string name="devnagari_color_white">सेतो</string>
+    <string name="devnagari_color_black">कालो</string>
+    <string name="devnagari_color_gray">खरानी</string>
+    <string name="devnagari_color_orange">सुन्तला</string>
+    <string name="devnagari_color_purple">प्याजी</string>
+    <string name="devnagari_color_brown">खैरो</string>
+    <string name="devnagari_color_yellow">पहेंलो</string>
+
+    <!-- Devnagari translation for Families -->
+    <string name="devnagari_family_father">बाबा</string>
+    <string name="devnagari_family_mother">आमा</string>
+    <string name="devnagari_family_husband">सृिमान</string>
+    <string name="devnagari_family_wife">सर्रमति</string>
+    <string name="devnagari_family_son">छोरा</string>
+    <string name="devnagari_family_daughter">छोरी</string>
+    <string name="devnagari_family_older_brother">दाइ</string>
+    <string name="devnagari_family_younger_brother">भाइ</string>
+    <string name="devnagari_family_older_sister">दिदी</string>
+    <string name="devnagari_family_younger_sister">बहिनी</string>
+    <string name="devnagari_family_grandmother">हजुर आमा</string>
+    <string name="devnagari_family_grandfather">हजुर बाबा</string>
+
+    <!--Devnagari translation for Phrases (Basic)-->
+    <string name="devnagari_phrase_where_are_you_going">तिमी कता तिर जान लागेको?</string>
+    <string name="devnagari_phrase_what_is_your_name">तिम्रो नाम के हो?</string>
+    <string name="devnagari_phrase_my_name_is">मेरो नााम .... हो</string>
+    <string name="devnagari_phrase_how_are_you_feeling">तिमीलाई कस्तो छ?</string>
+    <string name="devnagari_phrase_im_feeling_good">मलाई ठीक छ</string>
+    <string name="devnagari_phrase_are_you_coming">तिमी आउने हो?</string>
+    <string name="devnagari_phrase_yes_im_coming">हो, म आंउदै छु</string>
+    <string name="devnagari_phrase_im_coming">म आंउदै छु</string>
+    <string name="devnagari_phrase_lets_go">हामी सभै जांहु</string>
+    <string name="devnagari_phrase_come_here">यता आऊ</string>
+
+    <!--Devnagari translation for Time (Basic)-->
+    <string name="devnagari_time_today">आज</string>
+    <string name="devnagari_time_tomorrow">भोली</string>
+    <string name="devnagari_time_yesterday">हिजो</string>
+    <string name="devnagari_time_morning">बिहान</string>
+    <string name="devnagari_time_afternoon">दिउंसो</string>
+    <string name="devnagari_time_night">रात</string>
+    <string name="devnagari_time_week">हप्ता</string>
+    <string name="devnagari_time_day">दिन</string>
+    <string name="devnagari_time_month">महिना</string>
+    <string name="devnagari_time_year">वर्ष</string>
+    <string name="devnagari_time_sunday">आइतबार</string>
+    <string name="devnagari_time_monday">सोमबार</string>
+    <string name="devnagari_time_tuesday">मंग्लबार</string>
+    <string name="devnagari_time_wednesday">बुधबार</string>
+    <string name="devnagari_time_thursday">बिहिबार</string>
+    <string name="devnagari_time_friday">शुक्रबार</string>
+    <string name="devnagari_time_saturday">शनिबार</string>
+
+
+</resources>

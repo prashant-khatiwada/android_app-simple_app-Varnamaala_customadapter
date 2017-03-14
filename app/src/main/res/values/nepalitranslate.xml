@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Nepali Letter Consonants-->
+    <string name="nepali_letter_ka">ka</string>
+    <string name="nepali_letter_kha">kha</string>
+    <string name="nepali_letter_ga">ga</string>
+    <string name="nepali_letter_gha">gha</string>
+    <string name="nepali_letter_nga">nga</string>
+    <string name="nepali_letter_cha">cha</string>
+    <string name="nepali_letter_chha">chha</string>
+    <string name="nepali_letter_ja">ja</string>
+    <string name="nepali_letter_jha">jha</string>
+    <string name="nepali_letter_yna">yna</string>
+    <string name="nepali_letter_ta">ta</string>
+    <string name="nepali_letter_tha">tha</string>
+    <string name="nepali_letter_da">da</string>
+    <string name="nepali_letter_dha">dha</string>
+    <string name="nepali_letter_na">na</string>
+    <string name="nepali_letter_pa">pa</string>
+    <string name="nepali_letter_pha">pha</string>
+    <string name="nepali_letter_ba">ba</string>
+    <string name="nepali_letter_bha">bha</string>
+    <string name="nepali_letter_ma">ma</string>
+    <string name="nepali_letter_ya">ya</string>
+    <string name="nepali_letter_ra">ra</string>
+    <string name="nepali_letter_la">la</string>
+    <string name="nepali_letter_wa">wa</string>
+    <string name="nepali_letter_sa">sa</string>
+    <string name="nepali_letter_khha">khha</string>
+    <string name="nepali_letter_sha">sha</string>
+    <string name="nepali_letter_ha">ha</string>
+    <string name="nepali_letter_chyha">chyha</string>
+    <string name="nepali_letter_tra">tra</string>
+    <string name="nepali_letter_gyna">gyna</string>
+
+    <!--Nepali Letter Vowels-->
+    <string name="nepali_letter_a">a</string>
+    <string name="nepali_letter_aa">aa</string>
+    <string name="nepali_letter_i">i</string>
+    <string name="nepali_letter_ii">ii</string>
+    <string name="nepali_letter_ae">ae</string>
+    <string name="nepali_letter_aye">aye</string>
+    <string name="nepali_letter_ao">ao</string>
+    <string name="nepali_letter_aou">aou</string>
+    <string name="nepali_letter_mm">mm</string>
+    <string name="nepali_letter_yhna">yhna</string>
+    <string name="nepali_letter_ri">ri</string>
+
+
+
+    <!-- Nepali translation for Families -->
+    <string name="nepali_family_father">baba</string>
+    <string name="nepali_family_mother">aama</string>
+    <string name="nepali_family_husband">shriman</string>
+    <string name="nepali_family_wife">shrimati</string>
+    <string name="nepali_family_son">chhora</string>
+    <string name="nepali_family_daughter">chhori</string>
+    <string name="nepali_family_older_brother">dai</string>
+    <string name="nepali_family_younger_brother">bhai</string>
+    <string name="nepali_family_older_sister">didi</string>
+    <string name="nepali_family_younger_sister">bahini</string>
+    <string name="nepali_family_grandmother">hajur-aama</string>
+    <string name="nepali_family_grandfather">hajur-baba</string>
+
+    <!-- Nepali translation for number -->
+    <string name="nepali_number_one">ek</string>
+    <string name="nepali_number_two">dui</string>
+    <string name="nepali_number_three">teen</string>
+    <string name="nepali_number_four">chaar</string>
+    <string name="nepali_number_five">paanch</string>
+    <string name="nepali_number_six">cha</string>
+    <string name="nepali_number_seven">saat</string>
+    <string name="nepali_number_eight">aatth</string>
+    <string name="nepali_number_nine">nou</string>
+    <string name="nepali_number_ten">das</string>
+
+    <!-- Nepali translation for Time (basic) -->
+    <string name="nepali_time_today">aaja</string>
+    <string name="nepali_time_tomorrow">bholi</string>
+    <string name="nepali_time_yesterday">hijo</string>
+    <string name="nepali_time_morning">bihana</string>
+    <string name="nepali_time_afternoon">sanjha</string>
+    <string name="nepali_time_night">raati</string>
+    <string name="nepali_time_week">hapta</string>
+    <string name="nepali_time_day">din</string>
+    <string name="nepali_time_month">mahina</string>
+    <string name="nepali_time_year">barsa</string>
+    <string name="nepali_time_sunday">aaitabaar</string>
+    <string name="nepali_time_monday">sombaar</string>
+    <string name="nepali_time_tuesday">mangalbaar</string>
+    <string name="nepali_time_wednesday">budhabaar</string>
+    <string name="nepali_time_thursday">bihibaar</string>
+    <string name="nepali_time_friday">shukrabaar</string>
+    <string name="nepali_time_saturday">shanibaar</string>
+
+    <!--Nepali translation for colors-->
+    <string name="nepali_color_red">raato</string>
+    <string name="nepali_color_green">hariyo</string>
+    <string name="nepali_color_blue">neelo</string>
+    <string name="nepali_color_black">kaalo</string>
+    <string name="nepali_color_white">seto</string>
+    <string name="nepali_color_gray">kharani</string>
+    <string name="nepali_color_purple">pyaaji</string>
+    <string name="nepali_color_yellow">pahelo</string>
+    <string name="nepali_color_orange">suntala</string>
+    <string name="nepali_color_brown">khairo</string>
+
+    <!--Nepali translation for Phrases (Basic)-->
+    <string name="nepali_phrase_where_are_you_going">timi kata gai raheko?</string>
+    <string name="nepali_phrase_what_is_your_name">timro naam k ho?</string>
+    <string name="nepali_phrase_my_name_is">mero naam ... ho</string>
+    <string name="nepali_phrase_how_are_you_feeling">timi lai kasto cha?</string>
+    <string name="nepali_phrase_im_feeling_good">ma lai thik cha</string>
+    <string name="nepali_phrase_are_you_coming">timi aauney ho?</string>
+    <string name="nepali_phrase_yes_im_coming">ho, ma aauney ho</string>
+    <string name="nepali_phrase_im_coming">ma aaudai chu</string>
+    <string name="nepali_phrase_lets_go">haami sabai jaam</string>
+    <string name="nepali_phrase_come_here">yeta aau</string>
+
+</resources>
